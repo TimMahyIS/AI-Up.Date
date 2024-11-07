@@ -1,0 +1,23 @@
+{
+  "engine": "kohya",
+  "unetLR": 0.00050,
+  "clipSkip": 1,
+  "loraType": "lora",
+  "keepTokens": 0,
+  "networkDim": 2,
+  "numRepeats": 30,
+  "resolution": 1024,
+  "lrScheduler": "cosine_with_restarts",
+  "minSnrGamma": 5,
+  "noiseOffset": 0.1,
+  "targetSteps": 1900,
+  "enableBucket": true,
+  "networkAlpha": 16,
+  "optimizerType": "AdamW8Bit",
+  "textEncoderLR": 0,
+  "maxTrainEpochs": 13,
+  "shuffleCaption": false,
+  "trainBatchSize": 4,
+  "flipAugmentation": true,
+  "lrSchedulerNumCycles": 3
+}
