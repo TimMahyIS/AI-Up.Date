@@ -126,7 +126,7 @@ JefPajot presenting a PowerPoint on a large screen in a modern conference room. 
 
 
 ### 5) Final Outputs with Forge UI
-All raw results from the trained LoRa, were created in [Forge UI](https://github.com/lllyasviel/stable-diffusion-webui-forge) with FLUX.1-dev and our custom LoRa, and are stored in 6_flux_output. These images demonstrate the potential issues we ran into.
+All raw results from the trained LoRa, were created in [Forge UI](https://github.com/lllyasviel/stable-diffusion-webui-forge) with FLUX.1-dev and our custom LoRa, and are stored in 5_flux_output. These images demonstrate the potential issues we ran into.
 
 ### 6) Clean Up
 To further refine the generated images, we used inpainting techniques to mitigate the largest AI artifacts and an AI upscaling algorithm. This before-and-after comparison highlights improvements in visual fidelity and overall aesthetic.
